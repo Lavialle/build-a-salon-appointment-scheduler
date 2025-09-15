@@ -97,3 +97,8 @@ git push origin main
 git checkout main
 git add
 git add .
+git commit -m "holy comb"
+git push
+git push origin main
+ls --color=auto
+git add .
