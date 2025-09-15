@@ -102,3 +102,9 @@ git push
 git push origin main
 ls --color=auto
 git add .
+git commit -m "ok"
+git branch main
+igt checkout main
+git checkout main
+git commit -m "okok"
+git add .
