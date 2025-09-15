@@ -92,3 +92,8 @@ git commit -m "Holy Comb"
 git add salon.sh
 git commit -m "Holy Comb 2"
 git add .
+git commit -m "Holy Comb"
+git push origin main
+git checkout main
+git add
+git add .
